@@ -1,0 +1,9 @@
+ruutu 2 3
+ruutu 5 4 #
+ruutu 1
+ruutu 2,3
+ruutu -1 2
+ruutu 1 1 X
+ruutu 1 3 Y
+ruutu 4 1 Z
+lopeta
